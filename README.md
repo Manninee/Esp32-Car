@@ -28,4 +28,4 @@ Picture of the car
 
 Picture of the web page graphical user interface
 
-![Gui image](/images/Gui.PNG)
+![Gui image](/images/Gui.png)
